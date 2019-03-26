@@ -6,5 +6,4 @@ Topics to cover:
 - [Using Advanced Type Features](Chapter2.md)
 - [Creating and using decorators](Chapter3.md)
 - [Implementing Asynchronous Patterns](Chapter4.md)
-- [Writing Cleaner Code with TSLint](Chapter5.md)
 

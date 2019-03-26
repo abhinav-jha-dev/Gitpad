@@ -1,1 +1,0 @@
-# Writing Cleaner Code with TSLint
