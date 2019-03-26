@@ -8,7 +8,7 @@ This will help you to learn new concepts without wasting time on research. You c
 - Pluralsight
   - [Advanced Typescript](Pluralsight_Advanced_Typescript/README.md)
 - Software Engineering
-  - [OData](OData\README.md)
+  - [OData](OData/README.md)
   - [Design Patterns](https://github.com/abhinav2127/DesignPattern_CSharp/blob/master/README.md)
 
 # Authors
