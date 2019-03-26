@@ -6,7 +6,10 @@ This will help you to learn new concepts without wasting time on research. You c
 
 ## Topics of interest
 - Pluralsight
-    - [Advanced Typescript](Pluralsight_Advanced_Typescript/README.md)
+  - [Advanced Typescript](Pluralsight_Advanced_Typescript/README.md)
+- Software Engineering
+  - [OData](OData\README.md)
+  - [Design Patterns](https://github.com/abhinav2127/DesignPattern_CSharp/blob/master/README.md)
 
 # Authors
 - Abhinav Jha - Initial work - [Portfolio](https://github.com/abhinav2127)
