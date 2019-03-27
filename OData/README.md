@@ -16,3 +16,19 @@ The [advanced tutorial](https://www.odata.org/getting-started/advanced-tutorial/
 - Batch requests
 
 As with the basic tutorial, all of the principles in the advanced tutorial can be applied to any OData API.
+
+# Implementations
+
+## Asp.Net Core WebAPI
+To implement Odata V4 with Asp.Net Core >2.1 follow this [article][aspnetcore-odata-V4], for V3 please follow this [article][aspnetcore-odata-V3]. You can parallelly run both api versions in a single webapi application.
+
+### Implementation
+Update your application by following these [Steps][aspnetcore-implementation].
+
+
+
+<!-- Images and links -->
+[aspnetcore-odata-V4]:https://docs.microsoft.com/en-us/aspnet/web-api/overview/odata-support-in-aspnet-web-api/odata-v4/create-an-odata-v4-endpoint
+[aspnetcore-odata-V3]: https://docs.microsoft.com/en-us/aspnet/web-api/overview/odata-support-in-aspnet-web-api/odata-v3/creating-an-odata-endpoint
+[pm-link]: https://docs.microsoft.com/en-us/nuget/tools/package-manager-console
+[aspnetcore-implementation]: implementation/aspnetcoreodatav4.md
