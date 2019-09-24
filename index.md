@@ -11,8 +11,16 @@ This will help you to learn new concepts without wasting time on research. You c
   - [OData](OData/README.md)
   - [Design Patterns](https://github.com/abhinav2127/DesignPattern_CSharp/blob/master/README.md)
 
+- Research
+    - [Time Management Techniques](research\timemanagement\README.md)
+
+- [Reference Links](reflinks.md)
+
 # Authors
 - Abhinav Jha - Initial work - [Portfolio](https://github.com/abhinav2127)
 
 # License
 This project is licensed under the MIT [License](LICENSE) - see the LICENSE.md file for details
+
+
+<!-- Links and Images -->
