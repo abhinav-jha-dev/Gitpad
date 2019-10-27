@@ -6,15 +6,12 @@ This will help you to learn new concepts without wasting time on research. You c
 
 ## Topics of interest
 - Pluralsight
-  - [Advanced Typescript](Pluralsight_Advanced_Typescript/README.md)
+  - [Advanced Typescript][1]
 - Software Engineering
-  - [OData](OData/README.md)
-  - [Design Patterns](https://github.com/abhinav2127/DesignPattern_CSharp/blob/master/README.md)
+  - [OData][2]
+  - [Design Patterns][3]
 
-- Research
-    - [Time Management Techniques](research\timemanagement\README.md)
-
-- [Reference Links](reflinks.md)
+- [Important Reference Links][4]
 
 # Authors
 - Abhinav Jha - Initial work - [Portfolio](https://github.com/abhinav2127)
@@ -24,3 +21,7 @@ This project is licensed under the MIT [License](LICENSE) - see the LICENSE.md f
 
 
 <!-- Links and Images -->
+[1](Pluralsight_Advanced_Typescript/README.md)
+[2](OData/README.md)
+[3](designpatterns/README.md)
+[4](reflinks.md)
