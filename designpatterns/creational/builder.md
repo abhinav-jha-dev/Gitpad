@@ -14,7 +14,7 @@ To illustrate on above point let us take an example of mobile phone manufacturin
 What this means is that we will have to design the system in such a way that the client application will simply specify the parameters that should be used to create the complex object and the builder will take care of building the complex object. Let us visualize the class diagram of Builder Pattern.
 
 ### UML Class Diagram
-<img src="../images/builder.GIF">
+<img src="../images/builder.gif">
 
 ## Structure
 Now lets see what are the class and objects we are using in the above class diagram:
