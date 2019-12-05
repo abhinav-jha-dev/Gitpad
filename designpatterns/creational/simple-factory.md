@@ -3,7 +3,7 @@ The Simple Factory isn't actually a Design Pattern; it's more of a programming i
 
 This is a UML diagram shown in [Head First Design Pattern](https://www.amazon.in/Head-First-Design-Patterns-Brain-Friendly/dp/9352132777/ref=sr_1_1?s=books&ie=UTF8&qid=1548777791&sr=1-1&keywords=head+first+design+patterns) :
 
-<img src="Images/SimpleFactory_UML.PNG" data-canonical-src="Images/SimpleFactory_UML.PNG"/>
+<img src="../images/SimpleFactory_UML.PNG" data-canonical-src="../images/SimpleFactory_UML.PNG"/>
 
 This is a self explanatory diagram of Simple Factory idiom.
 
