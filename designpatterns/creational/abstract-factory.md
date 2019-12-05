@@ -10,11 +10,11 @@ So I found my solution with `Abstract Factory Pattern` this helped me to create 
 
 ## Solution
 That's fairly complicated class diagram to draw; let's look at it all in terms of our PizzaStore:
-<img src="../Images/PizzaStore_Abstract_Factory_UML.PNG">
+<img src="Images/PizzaStore_Abstract_Factory_UML.PNG">
 
 What I have done?
 
-<img src="../Images/PizzaStore_Steps_UML.PNG">
+<img src="Images/PizzaStore_Steps_UML.PNG">
 
 ### Code Implementation
 
