@@ -21,7 +21,7 @@ This project is licensed under the MIT [License](LICENSE) - see the LICENSE.md f
 
 
 <!-- Links and Images -->
-[1](Pluralsight_Advanced_Typescript/README.md)
-[2](OData/README.md)
-[3](designpatterns/README.md)
-[4](reflinks.md)
+[1]: Pluralsight_Advanced_Typescript/README.md
+[2]: (OData/README.md)
+[3]: (designpatterns/README.md)
+[4]: (reflinks.md)
