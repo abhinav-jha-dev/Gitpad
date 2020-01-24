@@ -1,12 +1,9 @@
-# Learning Tracker Map
-
-
 Concepts:
 - [ ] Design Patterns
 
 WebApp and WebApi:
-- [ ] .Net Core Onion Architecture
-- [ ] Python Flask Web App
+- [x] .Net Core Onion Architecture
+- [x] Python Flask Web App
 
 Languages And Framework:
 - [ ] Dart/Flutter
