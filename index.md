@@ -11,6 +11,7 @@ This will help you to learn new concepts without wasting time on research. You c
 - Software Engineering And Development
   - [OData][2]
   - [Design Patterns][3]
+  - [D3.JS][14]
 
 - Important Reference Links
   - [Dart/Flutter][4]
@@ -35,13 +36,14 @@ This project is licensed under the MIT [License](LICENSE) - see the LICENSE.md f
 
 
 <!-- Links and Images -->
-[1]: Pluralsight_Advanced_Typescript/README.md
+[1]: cources/Pluralsight_Advanced_Typescript/README.md
 [2]: OData/README.md
 [3]: designpatterns/README.md
 [4]: reflinks/dart.md
 [11]: explorer/git_organizations.md
 [12]: https://docs.google.com/spreadsheets/d/1aA7rAQBEJye54LAxaXm2IvODjD0_mRP3_jKdzWp81Uc/edit#gid=1386834576
-[13]: reflinks/react.md
+[13]: cources/react/notes.md
+[14]: cources/d3js/notes.md
 
 <!-- Project and repositories -->
 [5]: https://github.com/abhinav2127/Microblog
